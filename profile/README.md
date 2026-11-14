@@ -1,13 +1,12 @@
 <p align="center"><img src="banner.svg" alt="Hydrocarbon Forge: a pixel-art Claude buddy, an oil drop and a forge flame on a dark-to-amber sky" width="100%"></p>
 
 <p align="center"><b>Games, mods and tiny tools, forged with Claude.</b><br>
-Everything here is open source, free, and built hands-on with Claude Code.</p>
+Built hands-on with Claude Code. Browse the repos below.</p>
 
 <p align="center">
 <img alt="built with: Claude Code" src="https://img.shields.io/badge/built_with-Claude_Code-d97757">
-<img alt="projects: 2 public" src="https://img.shields.io/badge/public_projects-2-ff9a3c">
+<img alt="public repos: 24" src="https://img.shields.io/badge/public_repos-24-ff9a3c">
 <img alt="license: MIT" src="https://img.shields.io/badge/license-MIT-blue">
-<img alt="org stars" src="https://img.shields.io/github/stars/Hydrocarbon-Forge?style=social">
 </p>
 
 ## 🔥 Projects
